@@ -1,0 +1,10 @@
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\bin\Debug\TextToProgressBar.exe.config
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\bin\Debug\TextToProgressBar.exe
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\bin\Debug\TextToProgressBar.pdb
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.Form1.resources
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.Properties.Resources.resources
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.csproj.GenerateResource.Cache
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.exe
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.pdb
+C:\Users\Aqua\source\repos\TextToProgressBar\TextToProgressBar\obj\Debug\TextToProgressBar.csprojResolveAssemblyReference.cache
